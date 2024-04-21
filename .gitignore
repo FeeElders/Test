@@ -1,0 +1,5 @@
+#lines with # are ignored
+
+
+# Files with ~ are ignored
+*~*
